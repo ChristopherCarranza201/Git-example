@@ -13,3 +13,7 @@
 # git add <nombre_fichero.py> (salvar el fichero y poniendo en status "stage")
 # git commit -m "comentario del fichero" (realizar un commit del fichero existente)
 # git branch <nombre_rama_principal> (muestra el nombre de la ramificación del fichero "main")
+
+# git log (abrir el commit realizado del fichero)
+# git checkout <tab_para_seleccionar_fichero> (vuelve a la última versión guardada)
+# git reset <tab_para_seleccionar_fichero> (indicar modo "unstaged" que el fichero no guardara los cambios que se harán)
