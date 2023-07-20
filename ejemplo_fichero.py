@@ -21,3 +21,5 @@
 # git log --graph --pretty -oneline (simplificar historial de commits) 
 # git config --global alias.<name_of_function> (create a simple command to summon the git log graph...)
 
+# code .gitignore (crear un fichero para poder mencionar cuales se ignoran)
+# **/<nombre_fichero_a_ignorar.py>
