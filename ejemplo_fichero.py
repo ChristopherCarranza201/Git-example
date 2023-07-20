@@ -17,3 +17,7 @@
 # git log (abrir el commit realizado del fichero)
 # git checkout <tab_para_seleccionar_fichero> (vuelve a la última versión guardada)
 # git reset <tab_para_seleccionar_fichero> (indicar modo "unstaged" que el fichero no guardara los cambios que se harán)
+
+# git log --graph --pretty -oneline (simplificar historial de commits) 
+# git config --global alias.<name_of_function> (create a simple command to summon the git log graph...)
+
