@@ -41,3 +41,7 @@
 # git switch <nombre_branch> ---------------------------------------------------------------------(cambiar de rama HEAD->)
 # git checkout tags/<nombre_del_tag> -------------------------------------------------------------(saltarse sin el código sha, tan solo con el tag)
 
+# git stash --------------------------------------------------------------------------------------(saltarse el commit)
+# git stash drop ---------------------------------------------------------------------------------(eliminar versiones de ficheros no guardadas)
+# git stash pop ----------------------------------------------------------------------------------(mostrar ficheros pendientes para commit)
+# git stash list ---------------------------------------------------------------------------------(lista de commits pendientes)
