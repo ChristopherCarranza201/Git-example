@@ -29,9 +29,15 @@
 
 # git reflog --------------------------------------(en caso de no aparecer todos los log de commit borrados, se expondrán utilizandola)
 # git tag <nombre_del_tag> ------------------------(etiquetar nombres al avance actual donde esté el HEAD, main)
+# git add . ---------------------------------------(todos los cambioes pendientes en stage se actualizan inmediatamente)
 #------------------------------------Otros Comandos Terminal------------------------------------#
 
 # cd <tab_para_seleccionar> ------------------(localizar carpeta en disco C:)
 # ls -----------------------------------------(invocar la librería de archivos de la carpeta consultada)
 # ipconfig /all ------------------------------(mostrar información imprescindible del dispositivo)
+
+# ----------------------------------------desplazarse en los commits/branches----------------------------------------------------#
+
+# git switch <nombre_branch> ---------------------------------------------------------------------(cambiar de rama HEAD->)
+# git checkout tags/<nombre_del_tag> -------------------------------------------------------------(saltarse sin el código sha, tan solo con el tag)
 
