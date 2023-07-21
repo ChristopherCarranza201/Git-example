@@ -45,3 +45,6 @@
 # git stash drop ---------------------------------------------------------------------------------(eliminar versiones de ficheros no guardadas)
 # git stash pop ----------------------------------------------------------------------------------(mostrar ficheros pendientes para commit)
 # git stash list ---------------------------------------------------------------------------------(lista de commits pendientes)
+
+# git branch -d <branch_name> --------------------------------------------------------------------(eliminar rama)
+# git merge <branch_name> ------------------------------------------------------------------------(visualizar cambios o ficheros especificados en su rama)
