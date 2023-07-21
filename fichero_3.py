@@ -41,4 +41,5 @@
 # git switch <nombre_branch> ---------------------------------------------------------------------(cambiar de rama HEAD->)
 # git checkout tags/<nombre_del_tag> -------------------------------------------------------------(saltarse sin el código sha, tan solo con el tag)
 
-# cambio realizado por merge de rama
+# cambio realizado normalmente en main #cambio realizado en misma
+
